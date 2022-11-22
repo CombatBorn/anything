@@ -1,6 +1,6 @@
 title=Old School RuneScape
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://25.71.87.30/
+codebase=http://25.55.3.119/
 cachedir=oldschool
 storebase=0
 initial_jar=gamepack_8363289.jar
